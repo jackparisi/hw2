@@ -2,6 +2,7 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: turquoise;
     font-weight: bold;
+    text-align: center;
 }
 body {
     background-color: thistle ;
